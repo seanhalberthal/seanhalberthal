@@ -1,4 +1,2 @@
-i build full-stack apps and the terminal tooling around them. mostly go
-and typescript, usually a tui, cli, or neovim plugin.
-
-more at [undont.dev](https://undont.dev)
+i like to build terminal tooling and enjoy solving problems. mostly
+with go and typescript, often a tui, cli, or nvim plugin (i use neovim btw)
